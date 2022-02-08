@@ -6,5 +6,5 @@ Rock, Paper, Scissors Game
 
 ### Rules
 * Paper wins against Rock but loses against Scissors.
-* Rock wins against scisors but loses against paper.
+* Rock wins against Scissors but loses against paper.
 * Scissors wins against paper but loses against rock.
